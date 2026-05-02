@@ -17,3 +17,6 @@
 
 ## Binary Cross-Entropy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/Understanding_binary_cross_entropy.ipynb)
+
+## Multi Layer Perceptron
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/Multi_layer_perceptron.ipynb)
