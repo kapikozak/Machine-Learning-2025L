@@ -20,3 +20,6 @@
 
 ## Multi Layer Perceptron
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/Multi_layer_perceptron.ipynb)
+
+## Convolutional Neural Networks
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/CNN_Assignment.ipynb)
