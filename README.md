@@ -26,5 +26,5 @@ Notebook with CNN requires some fixes as tensors has not been trasnfered between
 ## Convolutional Neural Networks
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/CNN_Assignment.ipynb)
 
-# NLP
+## NLP
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/NLPAssignment.ipynb)
