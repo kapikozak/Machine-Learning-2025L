@@ -1,6 +1,6 @@
 # Machine Learning 2025L
 
-Notebook with CNN requires some fixes as tensores has not been trasnfered between devices properly.
+Notebook with CNN requires some fixes as tensors has not been trasnfered between devices properly.
 
 ## PCA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/PCA_Assignment.ipynb)
