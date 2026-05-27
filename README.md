@@ -1,5 +1,7 @@
 # Machine Learning 2025L
 
+Notebook with CNN requires some fixes as some tensores has not been trasnfered between devices properly.
+
 ## PCA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/PCA_Assignment.ipynb)
 
@@ -23,3 +25,6 @@
 
 ## Convolutional Neural Networks
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/CNN_Assignment.ipynb)
+
+# NLP
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/NLPAssignment.ipynb)
