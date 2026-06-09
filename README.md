@@ -2,6 +2,8 @@
 
 ## Last Homework Assignment
 Finding Odd Shapes
+
+#### Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/Finding_odd_shapes.ipynb)
 
 ## Homework Assignments
