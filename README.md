@@ -1,5 +1,8 @@
 # Machine Learning 2025L
 
+## Last Homework Assignment
+Finding Odd Shapes
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Machine-Learning-2025L/blob/main/Finding_odd_shapes.ipynb)
 
 ## Homework Assignments
 Notebook with CNN Assignement requires some fixes as tensors has not been trasnfered between devices properly.
